@@ -1,6 +1,6 @@
 0,CombatZoneResize,241,226,406,391,TLResume,,,,
 0,HeartTeleport,320,304,,,,,,,
-0,HeartMode,0,,,,,,,,
+0,HeartMode,1,,,,,,,,
 0,TLPause,,,,,,,,,
 0,SansSweat,0,,,,,,,,
 0,SET,I,0,,,,,,,
@@ -141,18 +141,6 @@
 0,HeartTeleport,320,376,,,,,,,
 0,HeartMode,1,,,,,,,,
 0,SansAnimation,HeadBob,,,,,,,,
-0,GasterBlaster,2,499,300,499,300,180,0,0.2,1st
-0,GasterBlaster,2,139,300,139,300,0,0.03333,0.2,RightBlast
-0,GasterBlaster,2,499,250,499,250,180,0.06666,0.2,2nd
-0,GasterBlaster,2,139,250,139,250,0,0.1,0.2,RightBlast
-0,GasterBlaster,2,499,200,499,200,180,0.13333,0.2,3rd
-0,GasterBlaster,2,139,200,139,200,0,0.16666,0.2,RightBlast
-0,GasterBlaster,2,139,384,139,384,0,0.53333,0.2,1st
-0,GasterBlaster,2,499,384,499,384,180,0.56666,0.2,LeftBlast
-0,GasterBlaster,2,139,434,139,434,0,0.6,0.2,2nd
-0,GasterBlaster,2,499,434,499,434,180,0.63333,0.2,LeftBlast
-0,GasterBlaster,2,139,484,139,484,0,0.66666,0.2,3rd
-0,GasterBlaster,2,499,484,499,484,180,0.7,0.2,LeftBlast
 0.9,BlackScreen,1,,,,,,,,
 0,Sound,Flash,,,,,,,,
 0.1,BlackScreen,0,,,,,,,,
